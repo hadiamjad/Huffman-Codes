@@ -1,5 +1,5 @@
 # Huffman-Codes in C++
-In this I have build a file compression algorithm that uses binary trees and min binary heaps (priority queues). Your program will allow the user to compress and decompress files using the standard Huffman algorithm for encoding and decoding. I have also implemented my own hash table, which you’ll then use in implementing the Huffman encoding.
+In this I have build a file compression algorithm that uses binary trees and min binary heaps (priority queues). My program will allow the user to compress and decompress files using the standard Huffman algorithm for encoding and decoding. I have also implemented my own hash table, which will be used in implementing the Huffman encoding.
 
 # Step by Step Guide
 The first step is to count the frequency of occurrence of each character (including space, punctuation marks
